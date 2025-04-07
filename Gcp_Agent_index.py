@@ -5,7 +5,7 @@ st.set_page_config(page_title="My Chatbot", layout="wide")
 
 st.title("Chat with Dialogflow")
 
-# Embed Dialogflow Messenger
+# Embed Dialogflow Messenger app
 html_code = """
 <!DOCTYPE html>
 <html>
